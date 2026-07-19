@@ -1,15 +1,28 @@
+
+---
+
  Telecom Customer Churn Analysis Dashboard
 
- Project Overview
+Project Overview
 
 This project focuses on analyzing a telecom customer dataset to identify customer churn patterns and provide actionable business insights. Using Power BI, I designed two interactive dashboards that help management understand customer behavior, identify churn drivers, and support data-driven decision-making.
 
- Project Objectives
+
+---
+
+Project Objectives
+
 Analyze customer churn trends.
+
 Identify the key factors influencing customer churn.
+
 Discover high-risk customer segments.
 
 Recommend strategies to improve customer retention.
+
+
+
+---
 
 Tools & Technologies
 
@@ -21,6 +34,9 @@ Data Modeling
 
 Data Visualization
 
+
+
+---
 
 Dashboard 1: Overall Business Overview
 
@@ -56,6 +72,9 @@ Call usage distribution
 Churn rate by state
 
 
+
+---
+
 Dashboard 2: Executive Churn Analysis
 
 This dashboard focuses on identifying the major factors responsible for customer churn.
@@ -83,7 +102,11 @@ Factors Driving Customer Churn (Decomposition Tree)
 
 Executive recommendations for reducing customer churn
 
- Key Findings
+
+
+---
+
+Key Findings
 
 Customers without a Voice Mail Plan represent the majority of churned customers.
 
@@ -99,7 +122,7 @@ Improving customer service quality and focusing on high-risk customer segments c
 
 ---
 
- Business Recommendations
+Business Recommendations
 
 Improve customer service quality to reduce customer dissatisfaction.
 
@@ -109,9 +132,11 @@ Promote value-added services such as Voice Mail Plans.
 
 Use customer segmentation to identify and retain high-risk customers.
 
+
+
 ---
 
- Project Preview
+Project Preview
 
 This repository contains:
 
@@ -124,7 +149,8 @@ Business insights and recommendations
 
 
 ---
- Skills Demonstrated
+
+Skills Demonstrated
 
 Data Cleaning
 
@@ -144,3 +170,6 @@ Business Insight Generation
 
 
 
+---
+
+This project demonstrates how Power BI can transform raw telecom customer data into meaningful business insights that support strategic decision-making and improve customer retention.
